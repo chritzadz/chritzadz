@@ -11,12 +11,7 @@ I am Christian Anthony Dumanauw
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />
-</div>
+![](https://leetcard.jacoblin.cool/chritzadz??ext=activity)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -29,6 +24,8 @@ I am Christian Anthony Dumanauw
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="40px">
+
 
 </p>
 
