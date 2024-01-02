@@ -3,9 +3,9 @@ I am Christian Anthony Dumanauw
 
 ### About me :
 
-- 🏢 Estagiário na SEDUC do Estado de Rôndonia;
+- 🏢 Indonesia;
 - 🎓 Student in [City University of Hong Kong;](https://www.cityu.edu.hk/)
-- 💻 Software Engineer, Computer Scientist, Game Developer;
+- 💻 Software Engineer, Computer Scientist, Web Developer;
 - 👨🏽‍💻 Focusing in Competitive Programming   
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
