@@ -8,7 +8,7 @@ I am Christian Anthony Dumanauw
 - 💻 Software Engineer, Computer Scientist, Web Developer;
 - 👨🏽‍💻 Focusing in Competitive Programming   
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://github.com/chritzadz"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Statistics
 ![](https://leetcard.jacoblin.cool/chritzadz??ext=activity)
