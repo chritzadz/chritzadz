@@ -5,8 +5,8 @@ I am Christian Anthony Dumanauw
 
 - 🏢 Indonesia;
 - 🎓 Student in [City University of Hong Kong;](https://www.cityu.edu.hk/)
-- 💻 Software Engineer, Computer Scientist, Web Developer;
-- 👨🏽‍💻 Focusing in Competitive Programming   
+- 💻 Software Engineer
+- 👨🏽‍💻 Focusing in Android Development (Java/Kotlin)
 
 <a href="https://github.com/chritzadz"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
